@@ -3,7 +3,7 @@
 <p align="center">
 Estudante de Programação • Desenvolvedor Web em formação  
 Foco em <strong>Front-End</strong> e <strong>Back-End</strong>  
-Interior de São Paulo 🇧🇷
+
 </p>
 
 ---
