@@ -10,11 +10,11 @@ Foco em <strong>Desenvolvimento Web</strong> e <strong>Programação</strong>
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Computação, focado em programação e desenvolvimento de software.
+Sou estudante de Engenharia de Computação, focado em programação e elaboração de software.
 
 Atualmente estudo **C, C++, Python e Desenvolvimento Web**, buscando evoluir através de projetos práticos, desafios e aprendizado contínuo.
 
-Tenho interesse em desenvolvimento **Front-End**, **Back-End** e programação, buscando ampliar meus conhecimentos e descobrir novas áreas dentro da tecnologia.
+Tenho interesse em  **Front-End**, **Back-End** e programação, buscando ampliar meus conhecimentos e descobrir novas áreas dentro da tecnologia.
 
 ---
 
